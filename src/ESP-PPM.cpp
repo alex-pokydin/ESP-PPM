@@ -20,7 +20,7 @@
 #define DEBUGPIN 4
 
 const char *ssid = "Drone";
-const char *password = "abc123456";
+const char *password = "1234567890";
 
 volatile unsigned long next;
 volatile unsigned int ppm_running=1;
